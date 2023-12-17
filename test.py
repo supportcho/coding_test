@@ -1,4 +1,5 @@
 from collections import deque
+print("successfully uploaded")
 def bfs(v):
     #v는 시작위치
     q=deque([v])
